@@ -1,6 +1,6 @@
 # CryptoClustering - Module 19
 --------------------------------
---------------------------------
+
 Files contained herein:
 
 -Crypto_Clustering.ipynb // primary Jupyter Notebook for Module 19
